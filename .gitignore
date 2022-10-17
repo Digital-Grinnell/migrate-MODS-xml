@@ -1,0 +1,4 @@
+.venv
+my_data/xml/*
+__pycache__
+migration-test/*
